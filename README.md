@@ -43,3 +43,6 @@ c) sudo ./node_modules/.bin/typings install --ambient es6-shim
 8. Run: sudo npm start
 
 9. Access the project at: http://localhost:3000/ 
+<br/><br/>
+
+Author: Eusebiu Schipor
